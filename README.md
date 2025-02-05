@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about craf
 I specialize in **HTML, CSS, JavaScript, React.js**, bringing ideas to life with clean and responsive designs.  
 
 ## 🌟 About Me  
-🔹 **Frontend Developer** | Passionate about **HTML,CSS & JavaScript** 
-🔹 Currently sharpening my skills in the **Python & Backend development** 
-🔹 Studying **Full-Stack Development** at **LAMDA Tech Softics**  
-🔹 Built **Men Style Hub** – A dynamic **ECommerce platform** 🛍️  
+🔹 **Frontend Developer** | Passionate about **HTML,CSS & JavaScript** <br>
+🔹 Currently sharpening my skills in the **Python & Backend development** <br>
+🔹 Studying **Full-Stack Development** at **LAMDA Tech Softics** <br>
+🔹 Built **Men Style Hub** – A dynamic **ECommerce platform** 🛍️ <br>
 
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
